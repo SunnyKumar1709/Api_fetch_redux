@@ -83,7 +83,6 @@ export default function DataTable() {
                     <TableCell>{item.id}</TableCell>
                     <TableCell>{item.title}</TableCell>
                     <TableCell>{item.component ? "True" : "False"}</TableCell>
-                    {/* Add more cells based on your API response */}
                   </TableRow>
                 ))}
             </TableBody>
