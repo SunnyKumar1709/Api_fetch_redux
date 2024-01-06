@@ -1,0 +1,14 @@
+.c_header {
+  background-color: lightslategray;
+  height: 50px;
+}
+
+#header {
+  color: white;
+  display: inline-block;
+  margin-left: 50px;
+  cursor: pointer;
+  font-size: larger;
+  font-weight: bold;
+  padding: 8px;
+}
